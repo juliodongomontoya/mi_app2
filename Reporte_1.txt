@@ -1,0 +1,5 @@
+<inicio>
+1: obtener transacciones del cliente
+2: obtener el detalle del tx
+3: listar detalle del objeto
+<fin>
