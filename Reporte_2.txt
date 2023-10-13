@@ -1,4 +1,5 @@
 <inicio>
+0: Clientes en Lima
 1: obtener gastos del cliente que sean el ultimo mes
 2: obtener el detalle del gasto
 3: listar detalle del objeto
